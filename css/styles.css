@@ -1,0 +1,65 @@
+
+
+
+
+.navbar{
+
+	background-color: #C0C0C0;
+	border-radius: 0;
+	border: 0;
+	border-margin: 1px;
+}
+
+h1{
+
+	 position: center;
+	margin-bottom: 30px;
+	background-color: white;
+}
+.visible-xs{
+
+	background-color: #00bfff;
+}
+
+.navbar-brand{
+	text-decoration-color: red;
+font-color: red ;
+
+}
+
+.center{
+	border: 1px solid #0000FF;
+	 font-size: 20px;
+   float: right;
+	 color: white;
+	 position: right;
+	  background-color:#FF0000;
+}
+.center{
+	border: 1px solid #0000FF;
+	 font-size: 20px;
+   float: right;
+	 color: black;
+	 position: right;
+	  background-color:#FF0000;
+}
+.center{
+	border: 1px solid #0000FF;
+	 font-size: 20px;
+   float: right;
+	 color: white;
+	 position: right;
+	  background-color:#FF0000;
+}
+.text{
+background-color:	#808080 ;
+width: 100%
+height:150px;
+margin-right: auto;
+margin-left: auto;
+font-family: Helvetica;
+
+}
+
+
+
